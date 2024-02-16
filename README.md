@@ -13,7 +13,7 @@ It aims to replicate some of the basic functionalities of the popular music stre
 ## Technologies Used
 
 - **HTML5**: For the structure of the web pages.  
--**CSS3**: For styling and layout.  
+- **CSS3**: For styling and layout.  
 - **JavaScript**: For interactivity and functionality.  
 
 
