@@ -17,4 +17,4 @@ It aims to replicate some of the basic functionalities of the popular music stre
 - **JavaScript**: For interactivity and functionality.  
 
 
-**Link** - [Spotify Clone](https://spotifyrep.freewebhostmost.com/)
+## **Link** - [Spotify Clone](https://spotifyrep.freewebhostmost.com/)
